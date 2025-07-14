@@ -19,12 +19,5 @@
     "title": "Repository for EPSY 8251",
     "section": "Assignments",
     "text": "Assignments\n\n\nAssignment 1: Introduction to Statistical Computing\nAssignment 2: Introduction to Regression\nAssignment 3: Regression Inference\nAssignment 4: Introduction to Multiple Regression\nAssignment 5: Categorical Predictors\nAssignment 6: Interaction Effects"
-  },
-  {
-    "objectID": "index.html#worksheets",
-    "href": "index.html#worksheets",
-    "title": "Repository for EPSY 8251",
-    "section": "Worksheets",
-    "text": "Worksheets\n\n\nUsing RStudio\nLearning dplyr\nLearning ggplot2\nSimple Regression\nz-Scores\nDisplaying Effects from a Multiple Regression Model\nDiscussion: Astrological Signs and Hospitalization\nInteraction Effects"
   }
 ]
