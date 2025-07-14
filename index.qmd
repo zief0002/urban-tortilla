@@ -1,0 +1,50 @@
+---
+title: "Repository for EPSY 8251"
+subtitle: "Fall 2025"
+date: today
+---
+
+
+
+
+## Course Materials
+
+<nav aria-label="materials">
+- [Syllabus](https://docs.google.com/document/d/1LvY4n32EHN4ITkMn4kNAWxeEK-SFSBaYmipysFgAAhY/edit?usp=sharing)
+- [Textbook: Statistical Modeling and Computation for Educational Scientists](https://zief0002.github.io/modeling/)
+- [CSV Data Files (ZIP File)](https://github.com/zief0002/urban-tortilla/raw/refs/heads/main/files/data.zip)
+- [Data Dictionaries](https://zief0002.github.io/modeling/07-00-data-codebooks.html)
+- [R Scripts (ZIP File)](https://github.com/zief0002/urban-tortilla/raw/refs/heads/main/files/R%20Scripts.zip)
+</nav>
+
+<br />
+
+
+## Assignments
+
+<nav aria-label="assignments">
+- [Assignment 1: Introduction to Statistical Computing](https://docs.google.com/document/d/11my4GNOxbDWZqeS_AsWJvvaGk2bZXx7HRIeQ2MCoMjU/edit?usp=sharing)
+- [Assignment 2: Introduction to Regression](https://docs.google.com/document/d/1duRFN89JZJ11phisaNIxuDg_0ciudBD3Q6xevw-5ShI/edit?usp=sharing)
+- [Assignment 3: Regression Inference](https://docs.google.com/document/d/1mK77wnkven6nBpneIio9sUtlxDYjpeckn6Bp85wR-Q8/edit?usp=sharing)
+- [Assignment 4: Introduction to Multiple Regression](https://docs.google.com/document/d/1iPQ5ddwPC-Ny8You_wUf5uBMGh0JuO_4ahuih4PhZ0A/edit?usp=sharing)
+- [Assignment 5: Categorical Predictors](https://docs.google.com/document/d/16OQKhdBYleEMVt8-uJYJkRAlWdiMhCplYUtUOOcKxo4/edit?usp=sharing)
+- [Assignment 6: Interaction Effects](https://docs.google.com/document/d/1syiLp9J0FVDK90SUI0dJIselSCyLqbpVTwHUoxNnm4U/edit?usp=sharing)
+</nav>
+
+<br />
+
+
+
+
+## Worksheets
+
+<nav aria-label="worksheets">
+- [Using RStudio](https://docs.google.com/document/d/1rDpvE35orNK6CgCCHjZw_t2mJ1ueQUNj37Dxb576PxE/edit?usp=sharing)
+- [Learning dplyr](https://docs.google.com/document/d/177DimhBayb9tGOdUaDOU8-1AmKyEPQvy_xtgwwvjzJ0/edit?usp=sharing)
+- [Learning ggplot2](https://docs.google.com/document/d/1UqqcEhuQrBNCdfBk__2BFLbSixoBTFTxPEWfUqhBbzs/edit?usp=sharing)
+- [Simple Regression](https://docs.google.com/document/d/17_jumJt_LJbzvSgAQirl9jghgkMbQp1aDL1g5RCuczM/edit?usp=sharing)
+- [z-Scores](https://docs.google.com/document/d/1-JCvpKVn9XiZQSGxsdxL6fPRmSYE-V4Wed7m8eMbf4o/edit?usp=sharing)
+- [Displaying Effects from a Multiple Regression Model](https://docs.google.com/document/d/1zePvMG0YcaCyc4hQY1bt-YR1O1zQ-do1vr_Gowr2elA/edit?usp=sharing)
+- [Discussion: Astrological Signs and Hospitalization](https://docs.google.com/document/d/1uzosfdCtdSU-a9zPL_cUaR2KsGwZEXw-9DMArvvyEaA/edit?usp=sharing)
+- [Interaction Effects](https://docs.google.com/document/d/1qyU111rVC1NL2H3i1AIJt6tv0ofstffBntzVWZEEZZs/edit?usp=sharing)
+</nav>
