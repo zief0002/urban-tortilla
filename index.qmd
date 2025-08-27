@@ -14,7 +14,7 @@ date: today
 - [Textbook: Statistical Modeling and Computation for Educational Scientists](https://zief0002.github.io/modeling/)
 - [CSV Data Files (ZIP File)](https://github.com/zief0002/urban-tortilla/raw/refs/heads/main/files/data.zip)
 - [Data Dictionaries](https://docs.google.com/document/d/1u-nQvGTRs-kL6OA4LxYYZyPytV_98v9vhmDUG7Xk0dw/edit?usp=sharing)
-- [R Scripts (ZIP File)](https://github.com/zief0002/urban-tortilla/raw/refs/heads/main/files/RScripts.zip)
+- [R Scripts (ZIP File)](https://github.com/zief0002/urban-tortilla/raw/refs/heads/main/files/Rscripts.zip)
 </nav>
 
 <br />
