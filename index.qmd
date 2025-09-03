@@ -36,10 +36,10 @@ date: today
 
 
 
-<!-- ## Worksheets -->
+## Worksheets
 
-<!-- <nav aria-label="worksheets"> -->
-<!-- - [Using RStudio](https://docs.google.com/document/d/1rDpvE35orNK6CgCCHjZw_t2mJ1ueQUNj37Dxb576PxE/edit?usp=sharing) -->
+<nav aria-label="worksheets">
+- [Using RStudio](https://docs.google.com/document/d/1rDpvE35orNK6CgCCHjZw_t2mJ1ueQUNj37Dxb576PxE/edit?usp=sharing)
 <!-- - [Learning dplyr](https://docs.google.com/document/d/177DimhBayb9tGOdUaDOU8-1AmKyEPQvy_xtgwwvjzJ0/edit?usp=sharing) -->
 <!-- - [Learning ggplot2](https://docs.google.com/document/d/1UqqcEhuQrBNCdfBk__2BFLbSixoBTFTxPEWfUqhBbzs/edit?usp=sharing) -->
 <!-- - [Simple Regression](https://docs.google.com/document/d/17_jumJt_LJbzvSgAQirl9jghgkMbQp1aDL1g5RCuczM/edit?usp=sharing) -->
@@ -47,4 +47,4 @@ date: today
 <!-- - [Displaying Effects from a Multiple Regression Model](https://docs.google.com/document/d/1zePvMG0YcaCyc4hQY1bt-YR1O1zQ-do1vr_Gowr2elA/edit?usp=sharing) -->
 <!-- - [Discussion: Astrological Signs and Hospitalization](https://docs.google.com/document/d/1uzosfdCtdSU-a9zPL_cUaR2KsGwZEXw-9DMArvvyEaA/edit?usp=sharing) -->
 <!-- - [Interaction Effects](https://docs.google.com/document/d/1qyU111rVC1NL2H3i1AIJt6tv0ofstffBntzVWZEEZZs/edit?usp=sharing) -->
-<!-- </nav> -->
+</nav>
