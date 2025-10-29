@@ -48,7 +48,7 @@ ggplot(data = city, aes(x = income)) +
   ylab("Probability density")
 
 
-city %>%
+city |>
   summarize(
     M = mean(income),
     SD = sd(income)
@@ -67,7 +67,7 @@ ggplot(data = city, aes(x = education)) +
   ylab("Probability density")
 
 
-city %>% 
+city |> 
   summarize(
     M = mean(education), 
     SD = sd(education)
