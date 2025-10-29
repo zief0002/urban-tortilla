@@ -28,13 +28,13 @@ date: today
 <!-- - [Assignment 2: Introduction to Regression](https://docs.google.com/document/d/1duRFN89JZJ11phisaNIxuDg_0ciudBD3Q6xevw-5ShI/edit?usp=sharing) -->
 - Assignment 2: Introduction to Regression <span style="color: #ff2d21; font-size:13px;">[*Closed*]</span>
 <!-- - [Assignment 3: Regression Inference](https://docs.google.com/document/d/1mK77wnkven6nBpneIio9sUtlxDYjpeckn6Bp85wR-Q8/edit?usp=sharing) -->
-- Assignment 3: Regression Inference<span style="color: #ff2d21; font-size:13px;">[*Closed*]</span>
+- Assignment 3: Regression Inference <span style="color: #ff2d21; font-size:13px;">[*Closed*]</span>
 - [Assignment 4: Introduction to Multiple Regression](https://docs.google.com/document/d/1iPQ5ddwPC-Ny8You_wUf5uBMGh0JuO_4ahuih4PhZ0A/edit?usp=sharing)
-<!-- - Assignment 4: Introduction to Multiple Regression<span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
+<!-- - Assignment 4: Introduction to Multiple Regression <span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
 - [Assignment 5: Categorical Predictors](https://docs.google.com/document/d/16OQKhdBYleEMVt8-uJYJkRAlWdiMhCplYUtUOOcKxo4/edit?usp=sharing)
-<!-- - Assignment 5: Categorical Predictors<span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
+<!-- - Assignment 5: Categorical Predictors< span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
 - [Assignment 6: Interaction Effects](https://docs.google.com/document/d/1syiLp9J0FVDK90SUI0dJIselSCyLqbpVTwHUoxNnm4U/edit?usp=sharing)
-<!-- - Assignment 6: Interaction Effects<span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
+<!-- - Assignment 6: Interaction Effects <span style="color: #ff2d21; font-size:13px;">[*Closed*]</span> -->
 </nav>
 
 <br />
